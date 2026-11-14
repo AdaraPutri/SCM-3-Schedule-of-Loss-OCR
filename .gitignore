@@ -1,6 +1,10 @@
 .env
 .venv/
-
 .DS_Store
+__pycache__/
+*.egg-info/
+.pytest_cache/
+data/
+output.xlsx
 
 # any AWS credentials

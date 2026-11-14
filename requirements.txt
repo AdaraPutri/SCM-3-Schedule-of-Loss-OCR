@@ -2,4 +2,11 @@ boto3 # to access AWS Textract service
 awscli # to access AWS CLI commands
 pillow==11.3.0 # for image preparation
 openpyxl==3.1.5 # for Excel spreadsheet generation
-pytest==8.4.2 # for testing
+opencv-python-headless
+numpy
+fastapi
+uvicorn
+python-multipart
+pytest
+httpx
+-e .
